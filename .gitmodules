@@ -1,0 +1,6 @@
+[submodule "kubeconform"]
+	path = kubeconform
+	url = git@github.com:yannh/kubeconform.git
+[submodule "k8s-config-connector"]
+	path = k8s-config-connector
+	url = git@github.com:GoogleCloudPlatform/k8s-config-connector.git
